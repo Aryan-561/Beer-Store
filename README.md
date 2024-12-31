@@ -1,6 +1,9 @@
 # <img src="https://img.icons8.com/?size=160&id=c0aWWdZ9S_nj&format=png" width=50> Beer Store
 Beer Store with information of items and search functionality
 
+## Live Demo
+[Click Here](https://beer-store-tau.vercel.app/)
+
 ## Techstack used 
 - ReactJS
 - Redux
