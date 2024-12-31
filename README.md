@@ -1,8 +1,13 @@
-# React + Vite
+# <img src="https://img.icons8.com/?size=160&id=c0aWWdZ9S_nj&format=png" width=50> Beer Store
+Beer Store with information of items and search functionality
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Techstack used 
+- ReactJS
+- Redux
+- Tailwind
 
-Currently, two official plugins are available:
+## API
+"https://api.sampleapis.com/beers/ale"
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Preview
+![localhost_5173_ (11)](https://github.com/user-attachments/assets/69a23f79-99db-46d3-8841-189c1f821823)
